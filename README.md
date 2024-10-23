@@ -93,6 +93,9 @@ Von Hippel, Paul, 2015. “Linear vs. Logistic models: which is better, and when
 ## Q5: Compare with Decision Trees / Random Forest Estimators
 Having worked with logistic and linear regression models, we carried out predictions by using Decision Trees / Random Forests of your choice; we might have to try different ones and picked up the best. Then, we checked if the predictors, primarily the belief in supernatural evil, make also a strong showing with the best model you have found.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
